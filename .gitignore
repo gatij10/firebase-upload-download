@@ -21,3 +21,13 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Local Netlify folder
+.netlify
+
+/src/base.js
+/.firebaserc
+/firebase.json
+/firestore.rules
+/storage.rules
+/firestore.indexes.json
